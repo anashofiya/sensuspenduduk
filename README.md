@@ -1,2 +1,0 @@
-# sensuspenduduk
-aplikasi sensus penduduk
